@@ -1,2 +1,2 @@
-# cypress-automation
+# cypressAutomation
 Testing cases 
